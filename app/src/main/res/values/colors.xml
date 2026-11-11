@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tone màu Đỏ chủ đạo -->
+    <color name="primary">#C62828</color>
+    <color name="primary_dark">#8E0000</color>
+    <color name="primary_light">#FFCDD2</color>
+    <color name="primary_container">#B71C1C</color>
+    <color name="accent_red">#E53935</color>
+
+    <!-- Màu cảnh báo & Badge -->
+    <color name="badge_warning_bg">#FFEBEE</color>
+    <color name="badge_warning_text">#C62828</color>
+    <color name="badge_category_bg">#ECEFF1</color>
+    <color name="badge_category_text">#37474F</color>
+
+    <!-- Nút hành động màn chi tiết -->
+    <color name="btn_import">#C62828</color>
+    <color name="btn_sell">#E65100</color>
+    <color name="btn_delete">#D32F2F</color>
+
+    <!-- Màu nền và chữ -->
+    <color name="bg_screen">#F5F5F5</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="border_gray">#E0E0E0</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
